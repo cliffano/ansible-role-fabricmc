@@ -1,0 +1,6 @@
+---
+fabmc_minecraft_version: '1.21.4'
+fabmc_fabric_loader_version: '0.16.10'
+fabmc_installer_version: '1.0.1'
+fabmc_install_dir: /opt/fabricmc
+fabmc_java_opts: -Xmx2048M -Xms1024M
